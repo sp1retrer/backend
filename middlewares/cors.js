@@ -2,6 +2,7 @@ const allowedCors = [
    "http://localhost:3000",
    "https://localhost:3000",
    'https://sp1retrer.backend.nomorepartiesco.ru',
+    'http://sp1retrer.backend.nomorepartiesco.ru',
     "https://localhost:3001",
     "https://localhost:3000",
 ];
