@@ -1,5 +1,6 @@
-Ссылка на репозиторий с фронтендом: https://github.com/m1tka09/pindie-frontend.git
+Ссылка на репозиторий с фронтендом: https://github.com/sp1retrer/pindie_front
+Фронтенд работает локально 
+Ссылка на домен бекенда: sp1retrer.backend.nomorepartiesco.ru
 
-Ссылка на домен фронтенда: https://frontsaba.nomoredomainswork.ru/
 
 IP-адрес: 158.160.170.227
