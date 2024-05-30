@@ -5,6 +5,7 @@ const allowedCors = [
     'http://sp1retrer.backend.nomorepartiesco.ru',
     "https://localhost:3001",
     "https://localhost:3000",
+   "sp1retrer.frontend.nomorepartiesco.ru"
 ];
 function cors(req, res, next) {
   const { origin } = req.headers;
